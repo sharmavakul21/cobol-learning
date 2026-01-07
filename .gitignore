@@ -1,6 +1,7 @@
 # Ignore compiled COBOL binaries
 *.exe
 *.out
+hello
 
 # macOS junk
 .DS_Store
