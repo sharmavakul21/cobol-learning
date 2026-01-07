@@ -1,0 +1,13 @@
+# Ignore compiled COBOL binaries
+*.exe
+*.out
+
+# macOS junk
+.DS_Store
+
+# Allow COBOL and related source files everywhere
+!**/*.cbl
+!**/*.cob
+!**/*.jcl
+!**/*.txt
+!**/*.md
